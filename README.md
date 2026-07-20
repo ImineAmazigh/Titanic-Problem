@@ -74,5 +74,9 @@ Predictions for the `test.csv` data are saved to `predictions.csv`, containing `
 
 Feel free to explore and adapt this notebook for further analysis or different models!
 
-##Note
-Some comments are not yet finished, but i'll complete them as soon as possible
+## Note
+
+-Some comments are not yet finished, but i'll complete them as soon as possible
+
+- I'm working on web version, i think i'll use streamlit or javascript with API on it, stay tuned!
+
